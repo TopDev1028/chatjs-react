@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monochrome/static/css/main.dc4d6ff2.css",
-    "main.js": "/monochrome/static/js/main.57e09411.js",
-    "static/js/787.be19faf3.chunk.js": "/monochrome/static/js/787.be19faf3.chunk.js",
-    "index.html": "/monochrome/index.html",
-    "main.dc4d6ff2.css.map": "/monochrome/static/css/main.dc4d6ff2.css.map",
-    "main.57e09411.js.map": "/monochrome/static/js/main.57e09411.js.map",
-    "787.be19faf3.chunk.js.map": "/monochrome/static/js/787.be19faf3.chunk.js.map"
+    "main.css": "/chatjs-react/static/css/main.dc4d6ff2.css",
+    "main.js": "/chatjs-react/static/js/main.cc3c727f.js",
+    "static/js/787.be19faf3.chunk.js": "/chatjs-react/static/js/787.be19faf3.chunk.js",
+    "index.html": "/chatjs-react/index.html",
+    "main.dc4d6ff2.css.map": "/chatjs-react/static/css/main.dc4d6ff2.css.map",
+    "main.cc3c727f.js.map": "/chatjs-react/static/js/main.cc3c727f.js.map",
+    "787.be19faf3.chunk.js.map": "/chatjs-react/static/js/787.be19faf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.57e09411.js"
+    "static/js/main.cc3c727f.js"
   ]
 }
